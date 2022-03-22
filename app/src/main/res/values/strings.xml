@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Music Player</string>
+    <string name="btn_play" translatable="false">play</string>
+    <string name="btn_stop" translatable="false">stop</string>
+    <string name="btn_pause" translatable="false">pause</string>
+</resources>
